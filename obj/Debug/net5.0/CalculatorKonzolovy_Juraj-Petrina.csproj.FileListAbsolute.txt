@@ -1,0 +1,16 @@
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\bin\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.exe
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\bin\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.deps.json
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\bin\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.runtimeconfig.json
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\bin\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.runtimeconfig.dev.json
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\bin\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.dll
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\bin\Debug\net5.0\ref\CalculatorKonzolovy_Juraj-Petrina.dll
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\bin\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.pdb
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\obj\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.csproj.AssemblyReference.cache
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\obj\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\obj\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.AssemblyInfoInputs.cache
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\obj\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.AssemblyInfo.cs
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\obj\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.csproj.CoreCompileInputs.cache
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\obj\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.dll
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\obj\Debug\net5.0\ref\CalculatorKonzolovy_Juraj-Petrina.dll
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\obj\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.pdb
+C:\Users\bighu\source\repos\Sutaz_Juraj-Petrina\CalculatorKonzolovy_Juraj-Petrina\obj\Debug\net5.0\CalculatorKonzolovy_Juraj-Petrina.genruntimeconfig.cache
